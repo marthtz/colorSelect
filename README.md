@@ -2,6 +2,7 @@
 Threshold an image interactively (HSV,HSL, Sobel X/Y)
 
 Command line tool to apply thresholding on an image interactively. Requires OpenCV an numpy.
+Inspired by a similar tool from P1 that did Canny edge detection.
 
 Supports HSV, HLS and Sobel X/Y.
 
